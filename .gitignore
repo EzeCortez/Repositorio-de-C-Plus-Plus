@@ -1,0 +1,9 @@
+# Ignorar la carpeta de configuración de VSCode
+.vscode/
+
+# Ignorar ejecutables de Windows
+*.exe
+
+# Ignorar archivos objeto de compilación
+*.o
+*.out
