@@ -1,0 +1,5 @@
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio2Vehiculo\obj\Debug\net10.0\Ejercicio2Vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio2Vehiculo\obj\Debug\net10.0\Ejercicio2Vehiculo.AssemblyInfoInputs.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio2Vehiculo\obj\Debug\net10.0\Ejercicio2Vehiculo.AssemblyInfo.cs
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio2Vehiculo\obj\Debug\net10.0\Ejercicio2Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio2Vehiculo\obj\Debug\net10.0\Ejercicio2Vehiculo.sourcelink.json

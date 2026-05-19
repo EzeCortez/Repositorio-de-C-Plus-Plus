@@ -1,0 +1,15 @@
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\Ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\Ejercicio11.AssemblyInfoInputs.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\Ejercicio11.AssemblyInfo.cs
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\Ejercicio11.sourcelink.json
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\bin\Debug\net10.0\Ejercicio11.exe
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\bin\Debug\net10.0\Ejercicio11.deps.json
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\bin\Debug\net10.0\Ejercicio11.runtimeconfig.json
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\bin\Debug\net10.0\Ejercicio11.dll
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\bin\Debug\net10.0\Ejercicio11.pdb
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\Ejercicio11.dll
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\refint\Ejercicio11.dll
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\Ejercicio11.pdb
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\Ejercicio11.genruntimeconfig.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio11\obj\Debug\net10.0\ref\Ejercicio11.dll

@@ -1,0 +1,6 @@
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\AurielModEdit\obj\Debug\netstandard2.1\AurielModEdit.csproj.AssemblyReference.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\AurielModEdit\obj\Debug\netstandard2.1\AurielModEdit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\AurielModEdit\obj\Debug\netstandard2.1\AurielModEdit.AssemblyInfoInputs.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\AurielModEdit\obj\Debug\netstandard2.1\AurielModEdit.AssemblyInfo.cs
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\AurielModEdit\obj\Debug\netstandard2.1\AurielModEdit.csproj.CoreCompileInputs.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\AurielModEdit\obj\Debug\netstandard2.1\AurielModEdit.sourcelink.json
