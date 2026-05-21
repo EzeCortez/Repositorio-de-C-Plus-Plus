@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Collections.Generic;
 /*
 Una empresa de logística realiza envíos con dos tipos de vehículos:
 * Camioneta: capacidad para llevar cómodas, heladeras y lavarropas. Capacidad máxima: 10 elementos.
@@ -17,7 +17,17 @@ public abstract class Vehiculo
 {
     public abstract int itemsSoportados();
     public abstract int elementosMax();
-    
+
+    private List<Item> cargaActual;
+    public Vehiculo()
+    {
+        cargaActual = new List<Item>();
+    }
+    public void Cargar(Item unItem){
+        List.Add(Item);
+        List.Count;
+        
+    }
 }
 public abstract class Item
 {
@@ -27,5 +37,5 @@ public abstract class Item
     public abstract string Adicional();
     public abstract int Cantidad();
 
-}
+    }
 
