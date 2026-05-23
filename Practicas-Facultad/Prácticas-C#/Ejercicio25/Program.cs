@@ -14,13 +14,16 @@ public class Rotativity : IMolinete
     {
         return new int[] {50, 45};
     }
+
     public int obtenerIngresos()
     {
-        return int[];
+        int[] datosLeidos = GetUsage();        
+        int losIngresos = datosLeidos[0];
+        return losIngresos; 
     }
 
     public int obtenerEgresos()
     {
-        return 1;
+        return GetUsage()[1];
     }
 }
