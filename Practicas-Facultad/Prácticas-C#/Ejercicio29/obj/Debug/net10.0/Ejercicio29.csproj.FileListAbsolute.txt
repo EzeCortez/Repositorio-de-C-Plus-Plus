@@ -1,0 +1,15 @@
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\bin\Debug\net10.0\Ejercicio29.exe
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\bin\Debug\net10.0\Ejercicio29.deps.json
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\bin\Debug\net10.0\Ejercicio29.runtimeconfig.json
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\bin\Debug\net10.0\Ejercicio29.dll
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\bin\Debug\net10.0\Ejercicio29.pdb
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\Ejercicio29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\Ejercicio29.AssemblyInfoInputs.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\Ejercicio29.AssemblyInfo.cs
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\Ejercicio29.csproj.CoreCompileInputs.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\Ejercicio29.sourcelink.json
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\Ejercicio29.dll
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\refint\Ejercicio29.dll
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\Ejercicio29.pdb
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\Ejercicio29.genruntimeconfig.cache
+C:\Users\ezeel\Documents\GitProyects\Repositorio-de-C-Plus-Plus\Practicas-Facultad\Prácticas-C#\Ejercicio29\obj\Debug\net10.0\ref\Ejercicio29.dll
