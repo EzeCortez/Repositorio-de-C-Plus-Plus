@@ -18,5 +18,6 @@
   <Project Path="Ejercicio8/Ejercicio8.csproj" />
   <Project Path="Ejercicio9/Ejercicio9.csproj" />
   <Project Path="EjercicioIntegrador_1/EjercicioIntegrador_1.csproj" />
+  <Project Path="EjercicioPracticaConstuctors_1/EjercicioPracticaConstuctors_1.csproj" />
   <Project Path="EjercicioSOLID_1/EjercicioSOLID_1.csproj" />
 </Solution>
