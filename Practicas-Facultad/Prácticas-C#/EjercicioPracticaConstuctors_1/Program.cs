@@ -224,6 +224,7 @@ public class Formacion
                 vagonGanador = tmp;
                 pesoMasAlto = tmp.CalcularPesoMaximo();
             }
+            
         }
         return vagonGanador;
     }
@@ -238,8 +239,14 @@ public class Formacion
     }
     public bool EsCompleja()
     {
+        return CalcularPesoTotalLocomotoras() + CalcularPesoTotalVagones() > 10000 || 
+        locomotoras.Count + vagones.Count > 20;
         
-        
+    }
+    public void AgregarLocomotora(Locomotora loco)
+    {
+        locomotoras.Add(loco);
+
     }
 }
 public class Deposito
@@ -260,5 +267,34 @@ public class Deposito
             resultado.Add(tmp.ObtenerVagonMasPesado());
         }
         return resultado;
+    }
+    public bool NecesitaConductorExperimentado()
+    {
+        foreach(Formacion tmp in formaciones)
+        {
+            if(tmp.EsCompleja())
+            {
+                return true;
+            }            
+        }
+        return false;
+    }
+    public void AsignarLocomotora(Formacion formacion)
+    {
+        if(formacion.CalcularEmpujeFaltante() == 0)
+        {
+            return;
+        }
+        foreach(Locomotora tmp in locomotoras)
+        {
+            if(tmp.CalcularArrastreUtil() >= formacion.CalcularEmpujeFaltante())
+            {
+                formacion.AgregarLocomotora(tmp);
+                locomotoras.Remove(tmp);
+                return;
+            }
+            
+        }
+        throw new Exception("No hay locomotoras disponibles para agregar");
     }
 }
